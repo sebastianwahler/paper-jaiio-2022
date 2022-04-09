@@ -1,56 +1,53 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.4.3)  3 APR 2022 14:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.21)  8 APR 2022 20:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**paper-swahler-jaiio2022.tex
-(./paper-swahler-jaiio2022.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-01-09> xparse <2020-03-03> (./llncs.cls
+**./paper-swahler-jaiio2022.tex
+(paper-swahler-jaiio2022.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (llncs.cls
 Document Class: llncs 2022/01/12 v2.21 
  LaTeX document class for Lecture Notes in Computer Science
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count177
-\c@section=\count178
-\c@subsection=\count179
-\c@subsubsection=\count180
-\c@paragraph=\count181
-\c@subparagraph=\count182
-\c@figure=\count183
-\c@table=\count184
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count185
-\mult@box=\box47
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count193
+\mult@box=\box50
 \multicol@leftmargin=\dimen139
-\c@unbalance=\count186
-\c@collectmore=\count187
-\doublecol@number=\count188
-\multicoltolerance=\count189
-\multicolpretolerance=\count190
+\c@unbalance=\count194
+\c@collectmore=\count195
+\doublecol@number=\count196
+\multicoltolerance=\count197
+\multicolpretolerance=\count198
 \full@width=\dimen140
 \page@free=\dimen141
 \premulticols=\dimen142
 \postmulticols=\dimen143
 \multicolsep=\skip49
 \multicolbaselineskip=\skip50
-\partial@page=\box48
-\last@line=\box49
+\partial@page=\box51
+\last@line=\box52
 \maxbalancingoverflow=\dimen144
-\mult@rightbox=\box50
-\mult@grightbox=\box51
-\mult@gfirstbox=\box52
-\mult@firstbox=\box53
-\@tempa=\box54
-\@tempa=\box55
-\@tempa=\box56
+\mult@rightbox=\box53
+\mult@grightbox=\box54
+\mult@firstbox=\box55
+\mult@gfirstbox=\box56
 \@tempa=\box57
 \@tempa=\box58
 \@tempa=\box59
@@ -85,20 +82,22 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box88
 \@tempa=\box89
 \@tempa=\box90
-\c@minrows=\count191
-\c@columnbadness=\count192
-\c@finalcolumnbadness=\count193
+\@tempa=\box91
+\@tempa=\box92
+\c@minrows=\count199
+\c@columnbadness=\count266
+\c@finalcolumnbadness=\count267
 \last@try=\dimen145
 \multicolovershoot=\dimen146
 \multicolundershoot=\dimen147
-\mult@nat@firstbox=\box91
-\colbreak@box=\box92
-\mc@col@check@num=\count194
+\mult@nat@firstbox=\box93
+\colbreak@box=\box94
+\mc@col@check@num=\count268
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/aliascnt.sty
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\aliascnt.sty
 Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
 )
-\c@chapter=\count195
+\c@chapter=\count269
 LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 362.
 LaTeX Font Info:    Redeclaring math symbol \Delta on input line 363.
 LaTeX Font Info:    Redeclaring math symbol \Theta on input line 364.
@@ -120,224 +119,299 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
 \tocparanum=\dimen155
 \tocparatotal=\dimen156
 \tocsubparanum=\dimen157
-\@tempcntc=\count196
+\@tempcntc=\count270
 \fnindent=\dimen158
-\c@@inst=\count197
-\c@@auth=\count198
-\c@auco=\count199
+\c@@inst=\count271
+\c@@auth=\count272
+\c@auco=\count273
 \instindent=\dimen159
-\authrun=\box93
-\authorrunning=\toks15
-\tocauthor=\toks16
-\titrun=\box94
-\titlerunning=\toks17
-\toctitle=\toks18
-\c@theorem=\count266
-\c@case=\count267
-\c@conjecture=\count268
-\c@corollary=\count269
-\c@definition=\count270
-\c@example=\count271
-\c@exercise=\count272
-\c@lemma=\count273
-\c@note=\count274
-\c@problem=\count275
-\c@property=\count276
-\c@proposition=\count277
-\c@question=\count278
-\c@solution=\count279
-\c@remark=\count280
+\authrun=\box95
+\authorrunning=\toks16
+\tocauthor=\toks17
+\titrun=\box96
+\titlerunning=\toks18
+\toctitle=\toks19
+\c@theorem=\count274
+\c@case=\count275
+\c@conjecture=\count276
+\c@corollary=\count277
+\c@definition=\count278
+\c@example=\count279
+\c@exercise=\count280
+\c@lemma=\count281
+\c@note=\count282
+\c@problem=\count283
+\c@property=\count284
+\c@proposition=\count285
+\c@question=\count286
+\c@solution=\count287
+\c@remark=\count288
 \headlineindent=\dimen160
+) (C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
-)
-(/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf.sty
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+.sty
 Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
+.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
 Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks19
+\KV@toks@=\toks20
 )
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys
+.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
+ds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
 
 Package epstopdf Warning: No graphics package `graphic{s,x}' loaded.
 
-)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+))
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
+Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen161
 \Gin@req@width=\dimen162
 )
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count281
-\l__pdf_internal_box=\box95
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count289
+\U@D=\dimen163
+\l@unhyphenated=\language79
+
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count290
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
 )
-(./paper-swahler-jaiio2022.aux)
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish
+.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks21
+\es@quotdepth=\count291
+))
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/pspicture\pspicture.s
+ty
+Package: pspicture 1999/04/11/ v2.02 Picture mode via PS specials (DPC)
+\@arrowlength=\dimen164
+)
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count292
+\l__pdf_internal_box=\box97
+) (paper-swahler-jaiio2022.aux
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+
+
+LaTeX Warning: Label `fig1' multiply defined.
+
+)
 \openout1 = `paper-swahler-jaiio2022.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count282
-\scratchdimen=\dimen163
-\scratchbox=\box96
-\nofMPsegments=\count283
-\nofMParguments=\count284
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count285
-\MPscratchDim=\dimen164
-\MPnumerator=\count286
-\makeMPintoPDFobject=\count287
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count293
+\scratchdimen=\dimen165
+\scratchbox=\box98
+\nofMPsegments=\count294
+\nofMParguments=\count295
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count296
+\MPscratchDim=\dimen166
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
+\everyMPtoPDFconversion=\toks23
 )
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ (titulo.tex)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 42.
+(Font)              <14.4> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 42.
+(Font)              <7> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 42.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 4
-2.
- (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+(Font)              <5> on input line 28.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
+8.
+
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 42.
+(Font)              <9> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 42.
+(Font)              <6> on input line 28.
 
-Overfull \hbox (15.14911pt too wide) in paragraph at lines 55--56
-\T1/cmr/m/n/10 caso, pero con el tran-scurso del tiempo con-sti-tuyen una ex-te
-nsa base de conocimiento
- []
+(Abstract.tex) (Introduccion.tex [1
 
-[1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Underfull \vbox (badness 5105) has occurred while \output is active []
+Non-PDF special ignored!
+<special> header=pspicture.ps
+{C:/Users/swahler/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]) (sna.tex
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
 
- [3]
-[4]
+[2]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5]
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+ [3])
+(marco-trabajo.tex
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+ [4]
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+ [5]) (descripcion-datos.tex (dataset-delitos.tex)
+(propiedades-red.tex))
+LaTeX Info: Redefining \. on input line 73.
+LaTeX Info: Redefining \% on input line 73.
+ [6]
+LaTeX Info: Redefining \. on input line 73.
+LaTeX Info: Redefining \% on input line 73.
+ [7]
 
-LaTeX Warning: Citation `ref_lncs1' on page 6 undefined on input line 169.
-
-
-LaTeX Warning: Citation `ref_book1' on page 6 undefined on input line 170.
-
-
-LaTeX Warning: Citation `ref_proc1' on page 6 undefined on input line 170.
-
-
-LaTeX Warning: Citation `ref_url1' on page 6 undefined on input line 171.
-
-
-LaTeX Warning: Citation `ref_lncs1' on page 6 undefined on input line 172.
-
-
-LaTeX Warning: Citation `ref_book1' on page 6 undefined on input line 172.
-
-
-LaTeX Warning: Citation `ref_book1' on page 6 undefined on input line 173.
+LaTeX Warning: Citation `ref_lncs1' on page 8 undefined on input line 102.
 
 
-LaTeX Warning: Citation `ref_proc1' on page 6 undefined on input line 173.
+LaTeX Warning: Citation `ref_book1' on page 8 undefined on input line 103.
 
 
-LaTeX Warning: Citation `ref_url1' on page 6 undefined on input line 173.
+LaTeX Warning: Citation `ref_proc1' on page 8 undefined on input line 103.
 
-[6] [7] [8] (./paper-swahler-jaiio2022.aux) ) 
+
+LaTeX Warning: Citation `ref_url1' on page 8 undefined on input line 104.
+
+
+LaTeX Warning: Citation `ref_lncs1' on page 8 undefined on input line 105.
+
+
+LaTeX Warning: Citation `ref_book1' on page 8 undefined on input line 105.
+
+
+LaTeX Warning: Citation `ref_book1' on page 8 undefined on input line 106.
+
+
+LaTeX Warning: Citation `ref_proc1' on page 8 undefined on input line 106.
+
+
+LaTeX Warning: Citation `ref_url1' on page 8 undefined on input line 106.
+
+LaTeX Info: Redefining \. on input line 127.
+LaTeX Info: Redefining \% on input line 127.
+[8]
+LaTeX Info: Redefining \. on input line 171.
+LaTeX Info: Redefining \% on input line 171.
+ [9]
+LaTeX Info: Redefining \. on input line 187.
+LaTeX Info: Redefining \% on input line 187.
+ [10] (paper-swahler-jaiio2022.aux
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2380 strings out of 480608
- 34354 string characters out of 5897576
- 318848 words of memory out of 5000000
- 19332 multiletter control sequences out of 15000+600000
- 417881 words of font info for 58 fonts, out of 8000000 for 9000
- 376 hyphenation exceptions out of 8191
- 68i,8n,74p,1837b,290s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/sebas/.texlive2020/texmf-v
-ar/fonts/pk/ljfour/jknappen/ec/ecti0900.600pk> </home/sebas/.texlive2020/texmf-
-var/fonts/pk/ljfour/jknappen/ec/ecti1000.600pk> </home/sebas/.texlive2020/texmf
--var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/sebas/.texlive2020/texm
-f-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/sebas/.texlive2020/tex
-mf-var/fonts/pk/ljfour/jknappen/ec/tcrm0900.600pk> </home/sebas/.texlive2020/te
-xmf-var/fonts/pk/ljfour/jknappen/ec/ecbx0900.600pk> </home/sebas/.texlive2020/t
-exmf-var/fonts/pk/ljfour/jknappen/ec/ectt0900.600pk> </home/sebas/.texlive2020/
-texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </home/sebas/.texlive2020
-/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/sebas/.texlive202
-0/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr7.pfb>
-Output written on paper-swahler-jaiio2022.pdf (8 pages, 159916 bytes).
+ 3898 strings out of 478582
+ 66057 string characters out of 2843400
+ 375801 words of memory out of 3000000
+ 22013 multiletter control sequences out of 15000+600000
+ 482794 words of font info for 56 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,9n,62p,1854b,447s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ec
+ti1000.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
+pi600\ecti0900.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx1000.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\swahler\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\swahler\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\swahler\Ap
+pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\sw
+ahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\
+Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.
+pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
+cbx1440.pk><C:/Users/swahler/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmmi10.pfb><C:/Users/swahler/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb><C:/Users/swahler/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on paper-swahler-jaiio2022.pdf (10 pages, 174076 bytes).
 PDF statistics:
- 448 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 454 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
