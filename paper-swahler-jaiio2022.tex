@@ -12,6 +12,8 @@
 \usepackage[outdir=./]{epstopdf}
 \usepackage{graphicx}
 \usepackage[spanish,es-noshorthands]{babel}
+
+\usepackage{todonotes}
 %\usepackage{Tikz}
 \usepackage{pspicture}
 % Used for displaying a sample figure. If possible, figure files should
@@ -36,15 +38,30 @@
 \input{Introduccion}
 
 \section{Análisis de Redes Sociales (SNA)}
+\todo{Ver si no es una sub-sección de la introducción}
 \input{sna}
 
 \section{Marco de Trabajo - Ministerio Público Fiscal del Chubut}
+\todo{Quizás deba estar incluído en otra sección ó subsección}
 \input{marco-trabajo}
 
 \section{Descripción general de los Datos}
 \input{descripcion-datos}
 
+\section{Identificación de posibles Bandas Delictivas}
+\input{identificacion-bandas}
 
+\section{Resultados}
+\input{resultados}
+
+\section{Trabajos futuros}
+\input{trabajo-futuro}
+
+\section{Conclusión}
+\input{conclusion}
+
+
+\todo{Dejo los ejemplos del template como ayuda}
 \paragraph{Sample Heading (Fourth Level)}
 The contribution should contain no more than four levels of
 headings. Table~\ref{tab1} gives a summary of all heading levels.
@@ -118,6 +135,7 @@ the end of the paper, preceded by an unnumbered run-in heading (i.e.
 % \bibliographystyle{splncs04}
 % \bibliography{bibliografia}
 %
+\todo{Pasar la bibliografía a un archivo aparte bib}
 \renewcommand{\refname}{Referencias Bibliográficas}
 \begin{thebibliography}{8}
 \bibitem{ref_article1}
