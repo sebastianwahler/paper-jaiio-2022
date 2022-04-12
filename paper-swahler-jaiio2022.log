@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.21)  9 APR 2022 10:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.21)  11 APR 2022 22:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -609,23 +609,46 @@ LaTeX Info: Redefining \addtolength on input line 81.
 )
 \c@@todonotes@numberoftodonotes=\count317
 )
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\Tik
+z.sty
+(C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz\tikz.code.tex
+
+LaTeX Warning: You have requested package `Tikz',
+               but the package provides `tikz'.
+
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+\tikz@lastx=\dimen272
+\tikz@lasty=\dimen273
+\tikz@lastxsaved=\dimen274
+\tikz@lastysaved=\dimen275
+\tikz@lastmovetox=\dimen276
+\tikz@lastmovetoy=\dimen277
+\tikzleveldistance=\dimen278
+\tikzsiblingdistance=\dimen279
+\tikz@figbox=\box108
+\tikz@figbox@bg=\box109
+\tikz@tempbox=\box110
+\tikz@tempbox@bg=\box111
+\tikztreelevel=\count318
+\tikznumberofchildren=\count319
+\tikznumberofcurrentchild=\count320
+\tikz@fig@count=\count321
+\tikz@expandcount=\count322
+))
 (C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/pspicture\pspicture.s
 ty
 Package: pspicture 1999/04/11/ v2.02 Picture mode via PS specials (DPC)
-\@arrowlength=\dimen272
+\@arrowlength=\dimen280
 )
 (C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
 dftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count318
-\l__pdf_internal_box=\box108
+\l__color_backend_stack_int=\count323
+\l__pdf_internal_box=\box112
 ) (paper-swahler-jaiio2022.aux
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
-
-
-LaTeX Warning: Label `fig1' multiply defined.
-
 )
 \openout1 = `paper-swahler-jaiio2022.aux'.
 
@@ -647,16 +670,16 @@ LaTeX Font Info:    ... okay on input line 27.
 (C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count319
-\scratchdimen=\dimen273
-\scratchbox=\box109
-\nofMPsegments=\count320
-\nofMParguments=\count321
+\scratchcounter=\count324
+\scratchdimen=\dimen281
+\scratchbox=\box113
+\nofMPsegments=\count325
+\nofMParguments=\count326
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count322
-\MPscratchDim=\dimen274
-\MPnumerator=\count323
-\makeMPintoPDFobject=\count324
+\MPscratchCnt=\count327
+\MPscratchDim=\dimen282
+\MPnumerator=\count328
+\makeMPintoPDFobject=\count329
 \everyMPtoPDFconversion=\toks37
 )
 LaTeX Info: Redefining \. on input line 27.
@@ -704,20 +727,20 @@ LaTeX Info: Redefining \. on input line 33.
 LaTeX Info: Redefining \% on input line 33.
  [5])
 (descripcion-datos.tex (dataset-delitos.tex) (propiedades-red.tex
-
-LaTeX Warning: Marginpar on page 6 moved.
-
-)) (identificacion-bandas.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
  [6]
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [7]) (resultados.tex) (trabajo-futuro.tex)
+
+LaTeX Warning: Marginpar on page 7 moved.
+
+)) (identificacion-bandas.tex) (resultados.tex) (trabajo-futuro.tex)
 (conclusion.tex)
 
-LaTeX Warning: Marginpar on page 8 moved.
+LaTeX Warning: Marginpar on page 7 moved.
 
+LaTeX Info: Redefining \. on input line 90.
+LaTeX Info: Redefining \% on input line 90.
+[7]
 
 LaTeX Warning: Citation `ref_lncs1' on page 8 undefined on input line 119.
 
@@ -748,46 +771,42 @@ LaTeX Warning: Citation `ref_url1' on page 8 undefined on input line 123.
 LaTeX Info: Redefining \. on input line 143.
 LaTeX Info: Redefining \% on input line 143.
 [8]
-LaTeX Info: Redefining \. on input line 165.
-LaTeX Info: Redefining \% on input line 165.
+LaTeX Info: Redefining \. on input line 167.
+LaTeX Info: Redefining \% on input line 167.
  [9]
 LaTeX Info: Redefining \. on input line 205.
 LaTeX Info: Redefining \% on input line 205.
  [10] (paper-swahler-jaiio2022.aux
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
-)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+) ) 
 Here is how much of TeX's memory you used:
- 15227 strings out of 478582
- 313026 string characters out of 2843400
- 598332 words of memory out of 3000000
- 33092 multiletter control sequences out of 15000+600000
+ 15285 strings out of 478582
+ 314530 string characters out of 2843400
+ 609405 words of memory out of 3000000
+ 33145 multiletter control sequences out of 15000+600000
  482794 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,9n,94p,1852b,943s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ec
-ti0900.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
-pi600\ecti1000.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecbx1000.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts
-/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\swahler\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\swahler\AppData\Lo
-cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\swahler\Ap
-pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\sw
-ahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\
-Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.
-pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
-cbx1440.pk><C:/Users/swahler/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmmi10.pfb><C:/Users/swahler/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmr10.pfb><C:/Users/swahler/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on paper-swahler-jaiio2022.pdf (10 pages, 181430 bytes).
+ 99i,9n,94p,1852b,946s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
+cti1000.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecti0900.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
+ppen/ec/dpi600\ecbx1000.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljf
+our/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\swahler\AppData\Local\MiKTeX\font
+s/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\swahler\AppData\Local\MiK
+TeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\swahler\AppData\L
+ocal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\swahler\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\s
+wahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:
+\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000
+.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+ecbx1440.pk><C:/Users/swahler/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmmi10.pfb><C:/Users/swahler/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><C:/Users/swahler/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on paper-swahler-jaiio2022.pdf (10 pages, 182274 bytes).
 PDF statistics:
- 464 PDF objects out of 1000 (max. 8388607)
+ 465 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

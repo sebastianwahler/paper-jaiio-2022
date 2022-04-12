@@ -34,11 +34,22 @@ Los segmentos de líneas entre pares de nodos, vinculan a las personas entre sí
 
 Hay nodos que se encontrarán aislados en el grafo, esto no significa que no estén involucrados en casos, sino que quizás no existan relaciones para el filtro de búsqueda que se utilice en esa vista en particular.
 
-Supongamos que una persona "A" se encuentra asociada a 6 casos penales y una persona "B" a 3 casos. Agreguemos que ambas se encuentran relacionadas entre sí, por estar en 2 casos en común (caso 1 y 2).  
+Supongamos que una persona "A" se encuentra asociada a 6 casos penales y una persona "B" a 3 casos. Agreguemos que ambas se encuentran relacionadas entre sí, por estar en 2 casos en común (caso 1 y 2). Una representación gráfica de dicha situación se muestra a continuación en la Figura \ref{fig:grafode2}. 
 
 \todo{Explicar ejemplos del grafo}
 
 \begin{figure}
-\centering
+	\centering
+	\tikzstyle{nodoA}= [circle,fill=blue!25,minimum size=40pt]
+	\tikzstyle{nodoB}=[circle,fill=blue!25,minimum size=20pt]
+	\begin{center}
+		\begin{tikzpicture}[scale=1.0]
+			\node[nodoA][draw] (1) at (0,5) {A};
+			\node[nodoB][draw] (2) at (4,5) {B};
+			%
+			\draw [line width=0.8mm, red ] (1) -- (2);
+		\end{tikzpicture}
+	\end{center}
+	\caption{Ejemplo de relación entre dos personas.} 
+	\label{fig:grafode2}
 \end{figure}
-
