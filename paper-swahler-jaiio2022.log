@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.21)  22 APR 2022 19:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.21)  22 APR 2022 23:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -726,10 +726,10 @@ Underfull \vbox (badness 1694) has occurred while \output is active []
 LaTeX Info: Redefining \. on input line 31.
 LaTeX Info: Redefining \% on input line 31.
  [5])
-(descripcion-datos.tex (dataset-delitos.tex)
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
- [6] (propiedades-red.tex
+(descripcion-datos.tex (dataset-delitos.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+ [6]) (propiedades-red.tex
 
 LaTeX Warning: Marginpar on page 7 moved.
 
@@ -744,14 +744,14 @@ File: images//grafo-10-completo.png Graphic file (type png)
 <use images//grafo-10-completo.png>
 Package pdftex.def Info: images//grafo-10-completo.png  used on input line 27.
 (pdftex.def)             Requested size: 347.12354pt x 210.8139pt.
-) (visualizacion.tex))
-LaTeX Info: Redefining \. on input line 48.
-LaTeX Info: Redefining \% on input line 48.
+)
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
  [7]
-LaTeX Info: Redefining \. on input line 48.
-LaTeX Info: Redefining \% on input line 48.
- [8 <./images//grafo-200-completo.png> <./images//grafo-10-completo.png>] (iden
-tificacion-bandas.tex (planteamiento-problema.tex)
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+ [8 <./images//grafo-200-completo.png> <./images//grafo-10-completo.png>]
+(visualizacion.tex)) (identificacion-bandas.tex (planteamiento-problema.tex)
 (metodos-existentes.tex))
 LaTeX Info: Redefining \. on input line 51.
 LaTeX Info: Redefining \% on input line 51.
@@ -787,11 +787,11 @@ LaTeX Warning: Citation `ref_proc1' on page 10 undefined on input line 121.
 
 LaTeX Warning: Citation `ref_url1' on page 10 undefined on input line 121.
 
-LaTeX Info: Redefining \. on input line 141.
-LaTeX Info: Redefining \% on input line 141.
+LaTeX Info: Redefining \. on input line 123.
+LaTeX Info: Redefining \% on input line 123.
 [10]
-LaTeX Info: Redefining \. on input line 163.
-LaTeX Info: Redefining \% on input line 163.
+LaTeX Info: Redefining \. on input line 159.
+LaTeX Info: Redefining \% on input line 159.
  [11]
 LaTeX Info: Redefining \. on input line 205.
 LaTeX Info: Redefining \% on input line 205.
@@ -802,7 +802,7 @@ LaTeX Info: Redefining \% on input line 4.
 Here is how much of TeX's memory you used:
  15331 strings out of 478582
  316067 string characters out of 2843400
- 605191 words of memory out of 3000000
+ 601273 words of memory out of 3000000
  33178 multiletter control sequences out of 15000+600000
  482794 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -823,9 +823,9 @@ ecbx1440.pk><C:/Users/swahler/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmmi10.pfb><C:/Users/swahler/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmr10.pfb><C:/Users/swahler/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on paper-swahler-jaiio2022.pdf (12 pages, 776466 bytes).
+Output written on paper-swahler-jaiio2022.pdf (12 pages, 777394 bytes).
 PDF statistics:
- 489 PDF objects out of 1000 (max. 8388607)
+ 490 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
