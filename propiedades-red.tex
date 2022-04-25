@@ -1,7 +1,7 @@
 A partir de los datos de los casos penales, pudimos
 construir la red de Grupos de Pertenencia. En esta red, se eliminan los nodos de aquellas personas cuyos roles no sean referidos a actores delictivos, como ser: denunciantes, víctimas, damnificados, etc. En la Figura \ref{fig:grafocompleto} se muestra una visualización de la red. En la misma se puede observar un grafo compuesto de las 200 personas con más Casos Penales registrados en el Sistema de Gestión Coirón (con los siguientes criterios: involucradas en al menos un caso con rol de imputado, sospechoso o denunciado; se incluyen personas fallecidas, menores y personas jurídicas). Se visualizan además en la figura todas las relaciones que existen entre esas 200 personas y sus grupos de pertenencia.
 
-También hemos incluido estadísticas resumidas en la \ref{tab:EstadisticasResumidas}, en donde se pueden ver la cantidad de nodos y vértices totales con los que cuenta el dataset utilizado, como así también otros parámetros interesantes de analizar para el estudio de redes sociales.
+También hemos incluido estadísticas resumidas en el Cuadro  \ref{tab:EstadisticasResumidas}, en donde se pueden ver la cantidad de nodos y vértices totales con los que cuenta el dataset utilizado, como así también otros parámetros interesantes de analizar para el estudio de redes sociales.
 
 Al analizar la composición de la red obtenida podemos observar las relaciones que existen entre los nodos y como se "equilibra" el grafo, haciendo que aquellos nodos con pocas o nulas relaciones queden en la periferia de la gráfica. Sumado a ello también es apreciable la medida de centralidad de aquellos nodos que son rodeados por sus relacionados.
 
@@ -18,9 +18,21 @@ Una aproximación más clara para denotar la medida de centralidad puede verse r
 	\label{fig:grafocompleto}
 \end{figure}
 
+
 \begin{table}
-	\caption{Estadísticas resumidas de la DB}
-	\label{tab:EstadisticasResumidas}
+	\caption{Resumen del conjunto de datos utilizado.}\label{tab:EstadisticasResumidas}
+	\centering
+	\begin{tabular}{|l|r|}
+		\hline
+		\textbf{Característica} &  \textbf{Cantidad total} \\
+		\hline
+		Nodos &  33178 \\
+		\hline
+		Enlaces &  16964 \\
+		\hline
+		Relaciones Nodos/Enlaces &  60513 \\
+		\hline
+	\end{tabular}
 \end{table}
 
 \begin{figure}
@@ -29,7 +41,7 @@ Una aproximación más clara para denotar la medida de centralidad puede verse r
 	\label{fig:grafoTop10}
 \end{figure}
 
-\subsubsection{Centralidad} Please place your acknowledgments at
+\subsubsection{Centralidad} Los miembros de las bandas delictivas modifican dinámicamente sus relaciones con otros miembros de la red, lo que resulta en un cambio de su rol e importancia. Una serie de medidas de centralidad típicas del Análisis de Redes Sociales pueden ayudar a identificar estos cambios. Estas estadísticas se utilizan para filtrar la vista de la red en función del valor de un nodo específico y resaltar su posición dentro de la red. El grado de centralidad se define como el número de enlaces directos que tiene un nodo. Un nodo con un alto grado puede verse como un "centro", un nodo activo e importante en la red~\cite{ref_article32}.
 
-\subsubsection{Transitividad} Please place your acknowledgments at
+\subsubsection{Transitividad} El coeficiente de agrupamiento (transitividad) de un gráfico mide el grado de conexión de una red. Altos coeficientes de agrupamiento significan la presencia de un alto número de triángulos en la red. Es bien conocido en la biblografía~\cite{ref_article34} que las redes sociales muestran valores altos del coeficiente de agrupamiento cuando reflejan la estructura social subyacente de los contactos entre amigos/conocidos. Además, los valores altos del coeficiente de agrupamiento local se consideran un indicador confiable de los nodos cuyos vecinos están muy bien conectados y entre los cuales puede fluir una cantidad sustancial de información.
 
