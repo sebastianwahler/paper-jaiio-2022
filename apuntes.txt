@@ -1,0 +1,22 @@
+separar titulo.
+
+referncias mias y de diego y martin separadas (1,2) con la filiación de UNPSJB y UNS.
+agregar en mi filiación MPF.
+
+capitulo 2 (capitulo)
+capitulo 3 (capitulo)
+
+En cap3 quitar referencia (singular plural).
+En fig1 agregar un nodo y una relación más y explicar en detalle.
+
+en vez de fig2 mostrar 3 grafos de mayor a menor ("zoom").
+después mostrar 3 tablas (cuadro 2) referidas a cada grafo.
+
+codigo de vis, por ahora no.
+
+Resultados no va!
+Conclusiones: es como el abstract pero en tiempo pasado. No muy extenso (si que el abstract).
+
+capitulo 7 una intro y después si las lineas de investigación con la relación con el trabajo a realizar.
+	
+
