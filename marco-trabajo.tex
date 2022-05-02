@@ -10,11 +10,9 @@ Como herramienta de comunicación, agrupa la información, entrecruza las relaci
 Como herramienta de gestión administra el flujo de casos y el trabajo de los integrantes de las oficinas responsables de los mismos. Permite planificar, organizar, coordinar y controlar el flujo de trabajo afín a cada caso y la sumatoria de ellos.
 Ha sido desarrollado a medida de las necesidades del Ministerio Público Fiscal del Chubut, tomando como base el Código Procesal Penal vigente en el Chubut y adaptado a los lineamientos estratégicos de diseño y gestión de Oficinas Fiscales definidos por la Procuración General.
 
-Su progreso, mantenimiento y mejora continua está a cargo de un Equipo de Desarrollo del Departamento de Informática del Área de Planificación y Control de Gestión de la Procuración General, del cual formo parte.
-\todo{Hablo en singular? plural?}
+Su progreso, mantenimiento y mejora continua está a cargo de un Equipo de Desarrollo del Departamento de Informática del Área de Planificación y Control de Gestión de la Procuración General.
 
-Una vez registrada toda la información relacionada a un hecho, y con ayuda de herramientas y vinculaciones con otros sistemas, se pueden obtener salidas que permiten llevar adelante la
-investigación de un caso o de un conjunto de hechos con características comunes.
+Una vez registrada toda la información relacionada a un hecho, y con ayuda de herramientas y vinculaciones con otros sistemas, se pueden obtener salidas que permiten llevar adelante la investigación de un caso o de un conjunto de hechos con características comunes.
 
 Actualmente nos encontramos trabajando en la incorporación de herramientas de visualización de información que permitirán ver en modo gráfico lo que hoy se muestra en grillas, y listados, potenciando el análisis que realizarán luego los especialistas.
 
@@ -40,17 +38,20 @@ Supongamos que una persona "A" se encuentra asociada a 6 casos penales y una per
 
 \begin{figure}
 	\centering
-	\tikzstyle{nodoA}= [circle,fill=blue!25,minimum size=40pt]
-	\tikzstyle{nodoB}=[circle,fill=blue!25,minimum size=20pt]
+	\tikzstyle{nodoA}= [circle,fill=blue!25,minimum size=60pt]
+	\tikzstyle{nodoB}=[circle,fill=blue!25,minimum size=30pt]
+	\tikzstyle{nodoC}=[circle,fill=blue!25,minimum size=20pt]
 	\begin{center}
 		\begin{tikzpicture}[scale=1.0]
-			\node[nodoA][draw] (1) at (0,5) {A};
+			\node[nodoA][draw] (1) at (0,6) {A};
 			\node[nodoB][draw] (2) at (4,5) {B};
+			\node[nodoC][draw] (3) at (4,7) {C};
 			%
-			\draw [line width=0.8mm, red ] (1) -- (2);
+			\draw [line width=2.8mm, red ] (1) -- (2);
+			\draw [line width=0.8mm, red ] (1) -- (3);
 		\end{tikzpicture}
 	\end{center}
-	\caption{Ejemplo de relación entre dos personas.} 
+	\caption{Ejemplo de relación entre tres personas.} 
 	\label{fig:grafode2}
 \end{figure}
 

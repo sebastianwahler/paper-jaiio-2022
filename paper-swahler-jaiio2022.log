@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.21)  26 APR 2022 14:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.21)  2 MAY 2022 19:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -691,155 +691,113 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 30.
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
 0.
 
 (C:\Users\swahler\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 30.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 30.
-
-Title too long for running head. Please supply
-a shorter form with \titlerunning prior to \maketitle
 (Abstract.tex) (Introduccion.tex [1
 
 
 Non-PDF special ignored!
 <special> header=pspicture.ps
-{C:/Users/swahler/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]) (sna.tex
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
-
-[2]
-Underfull \vbox (badness 5105) has occurred while \output is active []
-
+{C:/Users/swahler/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
+ [2]
+(sna.tex
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- [3])
-(marco-trabajo.tex
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
- [4]
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
- [5]) (descripcion-datos.tex (dataset-delitos.tex
+ [3]) (marco-trabajo.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
+ [4]
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
 
-[6]) (propiedades-red.tex
+[5]) (descripcion-datos.tex (dataset-delitos.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+ [6]) (propiedades-red.tex
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
 
-LaTeX Warning: Marginpar on page 7 moved.
+[7]
 
-<images//grafo-200-completo.png, id=33, 501.875pt x 367.87437pt>
+LaTeX Warning: Marginpar on page 8 moved.
+
+<images//grafo-200-completo.png, id=38, 501.875pt x 367.87437pt>
 File: images//grafo-200-completo.png Graphic file (type png)
 <use images//grafo-200-completo.png>
 Package pdftex.def Info: images//grafo-200-completo.png  used on input line 16.
 
 (pdftex.def)             Requested size: 347.12354pt x 254.45665pt.
-<images//grafo-10-completo.png, id=35, 521.44812pt x 316.68312pt>
+<images//grafo-10-completo.png, id=40, 521.44812pt x 316.68312pt>
 File: images//grafo-10-completo.png Graphic file (type png)
 <use images//grafo-10-completo.png>
 Package pdftex.def Info: images//grafo-10-completo.png  used on input line 39.
 (pdftex.def)             Requested size: 347.12354pt x 210.8139pt.
 LaTeX Info: Redefining \. on input line 45.
 LaTeX Info: Redefining \% on input line 45.
-[7]
+[8 <./images//grafo-200-completo.png>]
 LaTeX Info: Redefining \. on input line 45.
 LaTeX Info: Redefining \% on input line 45.
- [8 <./images//grafo-200-completo.png>]) (visualizacion.tex
-LaTeX Info: Redefining \. on input line 2.
-LaTeX Info: Redefining \% on input line 2.
- [9 <./images//grafo-10-completo.png>]
+ [9 <./images//grafo-10-completo.png>])
+(visualizacion.tex)) (identificacion-bandas.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [10]
+(planteamiento-problema.tex) (metodos-existentes.tex)) (trabajo-futuro.tex
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
 
-LaTeX Warning: Marginpar on page 10 moved.
-
-)) (identificacion-bandas.tex
-
-LaTeX Warning: Marginpar on page 10 moved.
-
-(planteamiento-problema.tex) (metodos-existentes.tex
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
- [10])) (resultados.tex)
-(trabajo-futuro.tex
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
- [11]) (conclusion.tex)
+[11]) (conclusion.tex)
 
 LaTeX Warning: Marginpar on page 12 moved.
 
-LaTeX Info: Redefining \. on input line 112.
-LaTeX Info: Redefining \% on input line 112.
+LaTeX Info: Redefining \. on input line 137.
+LaTeX Info: Redefining \% on input line 137.
 [12]
-
-LaTeX Warning: Citation `ref_lncs1' on page 13 undefined on input line 117.
-
-
-LaTeX Warning: Citation `ref_book1' on page 13 undefined on input line 118.
-
-
-LaTeX Warning: Citation `ref_proc1' on page 13 undefined on input line 118.
-
-
-LaTeX Warning: Citation `ref_url1' on page 13 undefined on input line 119.
-
-
-LaTeX Warning: Citation `ref_lncs1' on page 13 undefined on input line 120.
-
-
-LaTeX Warning: Citation `ref_book1' on page 13 undefined on input line 120.
-
-
-LaTeX Warning: Citation `ref_book1' on page 13 undefined on input line 121.
-
-
-LaTeX Warning: Citation `ref_proc1' on page 13 undefined on input line 121.
-
-
-LaTeX Warning: Citation `ref_url1' on page 13 undefined on input line 121.
-
-LaTeX Info: Redefining \. on input line 155.
-LaTeX Info: Redefining \% on input line 155.
-[13]
-LaTeX Info: Redefining \. on input line 203.
-LaTeX Info: Redefining \% on input line 203.
- [14]
-LaTeX Info: Redefining \. on input line 212.
-LaTeX Info: Redefining \% on input line 212.
- [15] (paper-swahler-jaiio2022.aux
+LaTeX Info: Redefining \. on input line 183.
+LaTeX Info: Redefining \% on input line 183.
+ [13]
+LaTeX Info: Redefining \. on input line 208.
+LaTeX Info: Redefining \% on input line 208.
+ [14] (paper-swahler-jaiio2022.aux
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
 ) ) 
 Here is how much of TeX's memory you used:
- 15344 strings out of 478582
- 316371 string characters out of 2843400
- 600276 words of memory out of 3000000
- 33191 multiletter control sequences out of 15000+600000
- 482794 words of font info for 56 fonts, out of 8000000 for 9000
+ 15304 strings out of 478582
+ 315394 string characters out of 2843400
+ 591073 words of memory out of 3000000
+ 33158 multiletter control sequences out of 15000+600000
+ 481422 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,9n,94p,1852b,944s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
-cti0900.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
-dpi600\ecti1000.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
-ppen/ec/dpi600\ecbx1000.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljf
-our/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\swahler\AppData\Local\MiKTeX\font
-s/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\swahler\AppData\Local\MiK
-TeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\swahler\AppData\L
-ocal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\swahler\A
-ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\s
-wahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:
-\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000
-.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
-ecbx1440.pk><C:/Users/swahler/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmmi10.pfb><C:/Users/swahler/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb><C:/Users/swahler/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on paper-swahler-jaiio2022.pdf (15 pages, 788095 bytes).
+cbx1000.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecbx1200.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
+ppen/ec/dpi600\ecrm0600.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljf
+our/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\swahler\AppData\Local\MiKTeX\font
+s/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\swahler\AppData\Local\MiK
+TeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\swahler\AppData\L
+ocal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\swahler\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\s
+wahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/
+Users/swahler/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6
+.pfb><C:/Users/swahler/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmr7.pfb>
+Output written on paper-swahler-jaiio2022.pdf (14 pages, 755279 bytes).
 PDF statistics:
- 510 PDF objects out of 1000 (max. 8388607)
+ 437 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
