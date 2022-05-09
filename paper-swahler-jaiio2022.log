@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.21)  2 MAY 2022 19:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.21)  6 MAY 2022 19:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -707,8 +707,8 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 Non-PDF special ignored!
 <special> header=pspicture.ps
 {C:/Users/swahler/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
-LaTeX Info: Redefining \. on input line 37.
-LaTeX Info: Redefining \% on input line 37.
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
  [2]
 (sna.tex
 LaTeX Info: Redefining \. on input line 9.
@@ -722,66 +722,70 @@ LaTeX Info: Redefining \% on input line 3.
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 
-[5]) (descripcion-datos.tex (dataset-delitos.tex
+[5]) (descripcion-datos.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+ [6]
+(dataset-delitos.tex) (propiedades-red.tex
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [6]) (propiedades-red.tex
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
-
-[7]
+ [7]
 
 LaTeX Warning: Marginpar on page 8 moved.
 
 <images//grafo-200-completo.png, id=38, 501.875pt x 367.87437pt>
 File: images//grafo-200-completo.png Graphic file (type png)
 <use images//grafo-200-completo.png>
-Package pdftex.def Info: images//grafo-200-completo.png  used on input line 16.
+Package pdftex.def Info: images//grafo-200-completo.png  used on input line 15.
 
 (pdftex.def)             Requested size: 347.12354pt x 254.45665pt.
 <images//grafo-10-completo.png, id=40, 521.44812pt x 316.68312pt>
 File: images//grafo-10-completo.png Graphic file (type png)
 <use images//grafo-10-completo.png>
-Package pdftex.def Info: images//grafo-10-completo.png  used on input line 39.
+Package pdftex.def Info: images//grafo-10-completo.png  used on input line 38.
 (pdftex.def)             Requested size: 347.12354pt x 210.8139pt.
-LaTeX Info: Redefining \. on input line 45.
-LaTeX Info: Redefining \% on input line 45.
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
 [8 <./images//grafo-200-completo.png>]
-LaTeX Info: Redefining \. on input line 45.
-LaTeX Info: Redefining \% on input line 45.
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
  [9 <./images//grafo-10-completo.png>])
-(visualizacion.tex)) (identificacion-bandas.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [10]
-(planteamiento-problema.tex) (metodos-existentes.tex)) (trabajo-futuro.tex
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
+(visualizacion.tex
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+ [10])) (identificacion-bandas.tex
 
-[11]) (conclusion.tex)
+LaTeX Warning: Marginpar on page 11 moved.
 
-LaTeX Warning: Marginpar on page 12 moved.
-
-LaTeX Info: Redefining \. on input line 137.
-LaTeX Info: Redefining \% on input line 137.
-[12]
-LaTeX Info: Redefining \. on input line 183.
-LaTeX Info: Redefining \% on input line 183.
+(metodos-existentes.tex) (planteamiento-problema.tex
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+ [11])) (trabajo-futuro.tex
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+[12]) (conclusion.tex)
+LaTeX Info: Redefining \. on input line 149.
+LaTeX Info: Redefining \% on input line 149.
  [13]
-LaTeX Info: Redefining \. on input line 208.
-LaTeX Info: Redefining \% on input line 208.
- [14] (paper-swahler-jaiio2022.aux
+LaTeX Info: Redefining \. on input line 197.
+LaTeX Info: Redefining \% on input line 197.
+ [14]
+LaTeX Info: Redefining \. on input line 210.
+LaTeX Info: Redefining \% on input line 210.
+ [15] (paper-swahler-jaiio2022.aux
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
 ) ) 
 Here is how much of TeX's memory you used:
  15304 strings out of 478582
- 315394 string characters out of 2843400
- 591073 words of memory out of 3000000
+ 315435 string characters out of 2843400
+ 594686 words of memory out of 3000000
  33158 multiletter control sequences out of 15000+600000
  481422 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,9n,94p,1852b,944s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 99i,9n,94p,1852b,942s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
 cbx1000.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
 dpi600\ecbx1200.pk> <C:\Users\swahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
@@ -795,9 +799,9 @@ wahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/
 Users/swahler/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6
 .pfb><C:/Users/swahler/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmr7.pfb>
-Output written on paper-swahler-jaiio2022.pdf (14 pages, 755279 bytes).
+Output written on paper-swahler-jaiio2022.pdf (15 pages, 759134 bytes).
 PDF statistics:
- 437 PDF objects out of 1000 (max. 8388607)
+ 441 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

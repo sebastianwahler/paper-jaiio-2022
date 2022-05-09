@@ -32,14 +32,14 @@ Los segmentos de líneas entre pares de nodos, vinculan a las personas entre sí
 
 Hay nodos que se encontrarán aislados en el grafo, esto no significa que no estén involucrados en casos, sino que quizás no existan relaciones para el filtro de búsqueda que se utilice en esa vista en particular.
 
-Supongamos que una persona "A" se encuentra asociada a 6 casos penales y una persona "B" a 3 casos. Agreguemos que ambas se encuentran relacionadas entre sí, por estar en 2 casos en común (caso 1 y 2). Una representación gráfica de dicha situación se muestra a continuación en la Figura \ref{fig:grafode2}, y puede observarse el doble de tamaño entre el nodo A y el nodo B, como así también el grosor del enlace por tener más de un caso en común. 
+Supongamos que una persona "A" se encuentra asociada a 8 casos penales, una persona "B" a 4 y una persona "C" a 2 casos. Agreguemos que las personas "A" y "B" se encuentran relacionadas entre sí, por estar en 3 casos en común (casos 1, 2 y 3). Por otro lado las personas "A" y "C" también se encuentran relacionadas, por tener un caso en común (caso 4).  Una representación gráfica de dicha situación se muestra a continuación en la Figura \ref{fig:grafode2}, y puede observarse el doble de tamaño entre el nodo "A" y el nodo "B", representando justamente la diferencia de casos entre ambos nodos (8 y 4 casos). También se ve a simple vista el grosor del enlace entre "A" y "B" tres veces más grande que el enlace entre "A" y "C" (3 casos en común entre el primer par de nodos, y sólo un caso para el último par de nodos mencionado). 
 
 \todo{Explicar ejemplos del grafo}
 
 \begin{figure}
 	\centering
-	\tikzstyle{nodoA}= [circle,fill=blue!25,minimum size=60pt]
-	\tikzstyle{nodoB}=[circle,fill=blue!25,minimum size=30pt]
+	\tikzstyle{nodoA}= [circle,fill=blue!25,minimum size=80pt]
+	\tikzstyle{nodoB}=[circle,fill=blue!25,minimum size=40pt]
 	\tikzstyle{nodoC}=[circle,fill=blue!25,minimum size=20pt]
 	\begin{center}
 		\begin{tikzpicture}[scale=1.0]
@@ -47,8 +47,8 @@ Supongamos que una persona "A" se encuentra asociada a 6 casos penales y una per
 			\node[nodoB][draw] (2) at (4,5) {B};
 			\node[nodoC][draw] (3) at (4,7) {C};
 			%
-			\draw [line width=2.8mm, red ] (1) -- (2);
-			\draw [line width=0.8mm, red ] (1) -- (3);
+			\draw [line width=3.0mm, red ] (1) -- (2);
+			\draw [line width=1.0mm, red ] (1) -- (3);
 		\end{tikzpicture}
 	\end{center}
 	\caption{Ejemplo de relación entre tres personas.} 
