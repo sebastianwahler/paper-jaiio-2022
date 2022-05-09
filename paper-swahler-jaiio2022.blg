@@ -1,16 +1,11 @@
-This is BibTeX, Version 0.99d (TeX Live 2020/Debian)
+This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: paper-swahler-jaiio2022.aux
-I couldn't open database file bibliografia.bib
----line 19 of file paper-swahler-jaiio2022.aux
- : \bibdata{bibliografia
- :                      }
-I'm skipping whatever remains of this command
-I found no database files---while reading file paper-swahler-jaiio2022.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
 I found no \bibstyle command---while reading file paper-swahler-jaiio2022.aux
-You've used 8 entries,
+You've used 35 entries,
             0 wiz_defined-function locations,
-            92 strings with 615 characters,
+            119 strings with 974 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
@@ -49,4 +44,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 0
 write$ -- 0
-(There were 3 error messages)
+(There was 1 error message)

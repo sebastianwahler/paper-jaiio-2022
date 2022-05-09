@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.21)  6 MAY 2022 19:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.21)  9 MAY 2022 00:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -707,10 +707,10 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 Non-PDF special ignored!
 <special> header=pspicture.ps
 {C:/Users/swahler/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
-LaTeX Info: Redefining \. on input line 39.
-LaTeX Info: Redefining \% on input line 39.
- [2]
-(sna.tex
+(Antecedentes.tex)
+LaTeX Info: Redefining \. on input line 42.
+LaTeX Info: Redefining \% on input line 42.
+ [2] (sna.tex
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
  [3]) (marco-trabajo.tex
@@ -763,26 +763,27 @@ LaTeX Warning: Marginpar on page 11 moved.
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
  [11])) (trabajo-futuro.tex
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
-[12]) (conclusion.tex)
-LaTeX Info: Redefining \. on input line 149.
-LaTeX Info: Redefining \% on input line 149.
- [13]
-LaTeX Info: Redefining \. on input line 197.
-LaTeX Info: Redefining \% on input line 197.
+LaTeX Info: Redefining \. on input line 14.
+LaTeX Info: Redefining \% on input line 14.
+[12]) (conclusion.tex
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+ [13]) (paper-swahler-jaiio2022.bbl)
+LaTeX Info: Redefining \. on input line 171.
+LaTeX Info: Redefining \% on input line 171.
  [14]
-LaTeX Info: Redefining \. on input line 210.
-LaTeX Info: Redefining \% on input line 210.
- [15] (paper-swahler-jaiio2022.aux
+LaTeX Info: Redefining \. on input line 212.
+LaTeX Info: Redefining \% on input line 212.
+ [15]
+(paper-swahler-jaiio2022.aux
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
 ) ) 
 Here is how much of TeX's memory you used:
- 15304 strings out of 478582
- 315435 string characters out of 2843400
- 594686 words of memory out of 3000000
- 33158 multiletter control sequences out of 15000+600000
+ 15315 strings out of 478582
+ 315885 string characters out of 2843400
+ 591807 words of memory out of 3000000
+ 33163 multiletter control sequences out of 15000+600000
  481422 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,9n,94p,1852b,942s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -799,9 +800,9 @@ wahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/
 Users/swahler/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6
 .pfb><C:/Users/swahler/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmr7.pfb>
-Output written on paper-swahler-jaiio2022.pdf (15 pages, 759134 bytes).
+Output written on paper-swahler-jaiio2022.pdf (15 pages, 764315 bytes).
 PDF statistics:
- 441 PDF objects out of 1000 (max. 8388607)
+ 449 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
