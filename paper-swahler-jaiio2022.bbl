@@ -1,0 +1,10 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{ref_article1}
+Finckenauer, J.O.: Problems of definition: what is organized crime? Trends in
+  organized crime  \textbf{8}(3),  63--83 (2005)
+
+\end{thebibliography}

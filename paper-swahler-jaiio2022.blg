@@ -1,47 +1,83 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: paper-swahler-jaiio2022.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: splncs04.bst
 Reallocating 'name_of_file' (item size: 1) to 13 items.
-I found no \bibstyle command---while reading file paper-swahler-jaiio2022.aux
-You've used 35 entries,
-            0 wiz_defined-function locations,
-            119 strings with 974 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+Database file #1: bibliografia.bib
+Warning--I didn't find a database entry for "ref_article2"
+Warning--I didn't find a database entry for "ref_article3"
+Warning--I didn't find a database entry for "ref_article4"
+Warning--I didn't find a database entry for "ref_article5"
+Warning--I didn't find a database entry for "ref_article6"
+Warning--I didn't find a database entry for "ref_article7"
+Warning--I didn't find a database entry for "ref_article8"
+Warning--I didn't find a database entry for "ref_article9"
+Warning--I didn't find a database entry for "ref_article10"
+Warning--I didn't find a database entry for "ref_article11"
+Warning--I didn't find a database entry for "ref_article12"
+Warning--I didn't find a database entry for "ref_article13"
+Warning--I didn't find a database entry for "ref_article14"
+Warning--I didn't find a database entry for "ref_article15"
+Warning--I didn't find a database entry for "ref_article16"
+Warning--I didn't find a database entry for "ref_article17"
+Warning--I didn't find a database entry for "ref_article18"
+Warning--I didn't find a database entry for "ref_article19"
+Warning--I didn't find a database entry for "ref_article20"
+Warning--I didn't find a database entry for "ref_article21"
+Warning--I didn't find a database entry for "ref_article22"
+Warning--I didn't find a database entry for "ref_article23"
+Warning--I didn't find a database entry for "ref_article24"
+Warning--I didn't find a database entry for "ref_article25"
+Warning--I didn't find a database entry for "ref_article26"
+Warning--I didn't find a database entry for "ref_article27"
+Warning--I didn't find a database entry for "ref_article28"
+Warning--I didn't find a database entry for "ref_article29"
+Warning--I didn't find a database entry for "ref_article30"
+Warning--I didn't find a database entry for "ref_article31"
+Warning--I didn't find a database entry for "ref_article32"
+Warning--I didn't find a database entry for "ref_article34"
+Warning--I didn't find a database entry for "ref_visjs"
+Warning--I didn't find a database entry for "ref_article33"
+You've used 1 entry,
+            2850 wiz_defined-function locations,
+            636 strings with 5074 characters,
+and the built_in function-call counts, 548 in all, are:
+= -- 45
+> -- 7
+< -- 2
++ -- 3
+- -- 2
+* -- 34
+:= -- 71
+add.period$ -- 1
+call.type$ -- 1
+change.case$ -- 4
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
-format.name$ -- 0
-if$ -- 0
+cite$ -- 1
+duplicate$ -- 51
+empty$ -- 52
+format.name$ -- 2
+if$ -- 118
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 0
-num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
-purify$ -- 0
+int.to.str$ -- 1
+missing$ -- 9
+newline$ -- 9
+num.names$ -- 2
+pop$ -- 12
+preamble$ -- 1
+purify$ -- 3
 quote$ -- 0
-skip$ -- 0
+skip$ -- 18
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 37
+swap$ -- 33
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 4
 warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 0
-(There was 1 error message)
+while$ -- 6
+width$ -- 2
+write$ -- 15
+(There were 34 warnings)

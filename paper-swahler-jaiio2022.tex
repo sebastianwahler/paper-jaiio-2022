@@ -37,15 +37,12 @@
 \input{titulo}
 \maketitle              % typeset the header of the contribution
 
-\todo{Verificar título!!!}
-
 %
 \input{Abstract}
 %
 \section{Introducción}
 \input{Introduccion}
-
-\section{Antecedentes}
+%\section{Antecedentes}
 \input{Antecedentes}
 
 \section{Análisis de Redes Sociales (SNA)}
@@ -60,11 +57,12 @@
 \section{Identificación de posibles Bandas Delictivas}
 \input{identificacion-bandas}
 
-\section{Trabajos futuros}
+\section{Conclusiones y trabajos futuros}
+%\section{Trabajos futuros}
+\input{conclusion}
 \input{trabajo-futuro}
 
-\section{Conclusiones}
-\input{conclusion}
+%\section{Conclusiones}
 
 %\todo{Dejo los ejemplos del template como ayuda}
 %\paragraph{Sample Heading (Fourth Level)}
@@ -139,82 +137,82 @@
 % BibTeX users should specify bibliography style 'splncs04'.
 % References will then be sorted and formatted in the correct style.
 %
-% \bibliographystyle{splncs04}
+\renewcommand{\refname}{Referencias Bibliográficas}
+
+\bibliographystyle{splncs04}
 \bibliography{bibliografia}
 %
-\todo{Pasar la bibliografía a un archivo aparte bib}
 
-\renewcommand{\refname}{Referencias Bibliográficas}
-\begin{thebibliography}{8}
-	\bibitem{ref_article1}
-	Finckenauer JO. Problems of definition: What is organized crime? Trends in Organized Crime. 2005; 8(3):63–83. \url{https://doi.org/10.1007/s12117-005-1038-4}
-	\bibitem{ref_article2}
-	Krishna Raj P.M.Ankith MohanK.G. Srinivasa. Practical Social Network Analysis with Python. Springer, 2018. ISBN: 978-3-319-96746-2.
-	\bibitem{ref_article3}
-	Burcher, Morgan. Social Network Analysis and Law Enforcement: Applications for Intelligence Analysis. Serie Crime Prevention and Security Management, 2020. ISBN 978-3-030-47770-7
-	\bibitem{ref_article4}
-	L.C. Freeman, The SAGE handbook of social network analysis, eds. J. Scott, P.J. Carrington, SAGE Publications Ltd., 2011.
-	\bibitem{ref_article5}
-	W.R. Harper, D.H. Harris, The application of link analysis to police intelligence. Hum. Factors 17(2), 157–164 (1975).
-	\bibitem{ref_article6}
-	P. Klerks, The network paradigm applied to criminal organisations: theoretical nitpicking or relevant doctrine for investigators? Recent developments in the Netherlands. Connections 24(3), 53–65 (1999)
-	\bibitem{ref_article7}
-	V. Krebs, Mapping networks of terrorist cells. Connections 24(3), 43–52 (2002)
-	\bibitem{ref_article8}
-	R.M. Medina, Social network analysis: a case study of the Islamist terrorist network. Secur. J. 27(1), 97–121 (2014)
-	\bibitem{ref_article9}
-	J. Qin, J.J. Xu, D. Hu, M. Sageman, H. Chen, Analyzing terrorist networks: a case study of the global jihad. Lect. Notes Comput. Sci. 3495, 287–304 (2005)
-	\bibitem{ref_article10}
-	E. Stollenwerk, T. Dörfler, J. Schibberges, Taking a new perspective: mapping the Al Qaeda network through the eyes of the UN Security Council. Terror. Political Violence 28(5), 950–970  (2016)
-	\bibitem{ref_article11}
-	M. Bouchard, J. Amirault, Advances in research on illicit networks. Glob. Crime 14(2–3), 119–122 (2013)
-	\bibitem{ref_article12}
-	D.A. Bright, C. Greenhill, M. Reynolds, A. Ritter, C. Morselli, The use of actor-level attributes and centrality measures to identify key actors: a case study of an Australian drug trafficking network. J. Contemp. Crim. Justice 31(3), 262–278 (2015a)
-	\bibitem{ref_article13}
-	L. Giommoni, A. Aziani, G. Berlusconi, How do illicit drugs move across countries? a network analysis of the heroin supply to Europe. J. Drug Issues 47(2), 217–240 (2016)
-	\bibitem{ref_article14}
-	C. Morselli, Hells Angels in springtime. Trends Org. Crime 12(2), 145–158 (2009)
-	\bibitem{ref_article15}
-	C. Morselli, Assessing vulnerable and strategic positions in a criminal network. J. Contemp. Crim. Justice 26(4), 382–392 (2010)
-	\bibitem{ref_article16}
-	A. Malm, G. Bichler, Networks of collaborating criminals: assessing the structural vulnerability of drug markets. J. Res. Crime Delinq. 48(2), 271–297 (2011)
-	\bibitem{ref_article17}
-	G. Bichler, A. Malm, Small arms, big guns: a dynamic model of illicit market opportunity. Glob. Crime 14(2–3), 261–286 (2013)
-	\bibitem{ref_article18}
-	A.F. Colladon, E. Remondi, Using social network analysis to prevent money laundering. Expert Syst. Appl. 67, 49–58 (2017)
-	\bibitem{ref_article19}
-	M.R.J. Soudijn, Using strangers for money: a discussion on money-launderers in organized crime. Trends Org. Crime 17(3), 199–217 (2014)
-	\bibitem{ref_article20}
-	M. Lauchs, R. Keast, N. Yousefpour, Corrupt police networks: uncovering hidden relationship patterns, functions and roles. Polic. Soc. 21(1), 110–127 (2011)
-	\bibitem{ref_article21}
-	J.M. McGloin, Policy and intervention considerations of a network analysis of street gangs. Criminol. Public Policy 4(3), 607–635 (2005)
-	\bibitem{ref_article22}
-	G. Bichler, A. Malm, J. Enriquez, Magnetic facilities: identifying key juvenile convergence places with social network analysis. Crime Delinq. 60(7), 971–998 (2014)
-	\bibitem{ref_article23}
-	D. Décary-Hétu, Information exchange paths in IRC hacking chat rooms, in Crime and networks, ed. by C. Morselli, (Routledge, New York, 2014)
-	\bibitem{ref_article24}
-	D. Décary-Hétu, B. Dupont, The social network of hackers. Glob. Crime 13(3), 160–175 (2012)
-	\bibitem{ref_article25}
-	D. Décary-Hétu, B. Dupont, Reputation in a dark network of online criminals. Glob. Crime 14(2–3), 175–196 (2013)
-	\bibitem{ref_article26}
-	M1. Xu, Jennifer, and Hsinchun Chen. "Criminal network analysis and visualization." Communications of the ACM 48.6 (2005): 100-107.
-	\bibitem{ref_article27}
-	M2. Feng, Mingchen, et al. "Big data analytics and mining for effective visualization and trends forecasting of crime data." IEEE Access 7 (2019): 106111-106123.
-	\bibitem{ref_article28}
-	M3. Mathew, Ammu, et al. "Criminal Networks Mining and Visualization for Crime Investigation." Caniya and P, Mufeed and Raj, Asha, Criminal Networks Mining and Visualization for Crime Investigation (July 8, 2021) (2021).
-	\bibitem{ref_article29}
-	M4. Chen, Hsinchun, et al. "Visualization in law enforcement." CHI'05 extended abstracts on Human factors in computing systems. 2005.
-	\bibitem{ref_article30}
-	\url{https://www.mpfchubut.gov.ar/}
-	\bibitem{ref_article31}
-	L. González, G. Rua. Sistemas Judiciales: Una perspectiva integral sobre la administración de justicia - Análisi Criminal, Publicación anual del CEJA e INECIP. N°23. Año 2019.
-	\bibitem{ref_article32}
-	K. M. Carley, Destabilization of covert networks, Comput. Math. Organ. Theory 12 (1) (2006) 51-66.
-	\bibitem{ref_article33}
-	M. Newman, A measure of betweenness centrality based on random walks, Social Networks 27 (1) (2005) 39-54.
-	\bibitem{ref_article34}
-	S. Wasserman, K. Faust, Social network analysis: methods and applications, Cambridge University Press, 1994.
-	\bibitem{ref_visjs}
-	\url{https://visjs.org/}
-\end{thebibliography}
+%\begin{thebibliography}{8}
+%	\bibitem{ref_article1}
+%	Finckenauer JO. Problems of definition: What is organized crime? Trends in Organized Crime. 2005; 8(3):63–83. \url{https://doi.org/10.1007/s12117-005-1038-4}
+%	\bibitem{ref_article2}
+%	Krishna Raj P.M.Ankith MohanK.G. Srinivasa. Practical Social Network Analysis with Python. Springer, 2018. ISBN: 978-3-319-96746-2.
+%	\bibitem{ref_article3}
+%	Burcher, Morgan. Social Network Analysis and Law Enforcement: Applications for Intelligence Analysis. Serie Crime Prevention and Security Management, 2020. ISBN 978-3-030-47770-7
+%	\bibitem{ref_article4}
+%	L.C. Freeman, The SAGE handbook of social network analysis, eds. J. Scott, P.J. Carrington, SAGE Publications Ltd., 2011.
+%	\bibitem{ref_article5}
+%	W.R. Harper, D.H. Harris, The application of link analysis to police intelligence. Hum. Factors 17(2), 157–164 (1975).
+%	\bibitem{ref_article6}
+%	P. Klerks, The network paradigm applied to criminal organisations: theoretical nitpicking or relevant doctrine for investigators? Recent developments in the Netherlands. Connections 24(3), 53–65 (1999)
+%	\bibitem{ref_article7}
+%	V. Krebs, Mapping networks of terrorist cells. Connections 24(3), 43–52 (2002)
+%	\bibitem{ref_article8}
+%	R.M. Medina, Social network analysis: a case study of the Islamist terrorist network. Secur. J. 27(1), 97–121 (2014)
+%	\bibitem{ref_article9}
+%	J. Qin, J.J. Xu, D. Hu, M. Sageman, H. Chen, Analyzing terrorist networks: a case study of the global jihad. Lect. Notes Comput. Sci. 3495, 287–304 (2005)
+%	\bibitem{ref_article10}
+%	E. Stollenwerk, T. Dörfler, J. Schibberges, Taking a new perspective: mapping the Al Qaeda network through the eyes of the UN Security Council. Terror. Political Violence 28(5), 950–970  (2016)
+%	\bibitem{ref_article11}
+%	M. Bouchard, J. Amirault, Advances in research on illicit networks. Glob. Crime 14(2–3), 119–122 (2013)
+%	\bibitem{ref_article12}
+%	D.A. Bright, C. Greenhill, M. Reynolds, A. Ritter, C. Morselli, The use of actor-level attributes and centrality measures to identify key actors: a case study of an Australian drug trafficking network. J. Contemp. Crim. Justice 31(3), 262–278 (2015a)
+%	\bibitem{ref_article13}
+%	L. Giommoni, A. Aziani, G. Berlusconi, How do illicit drugs move across countries? a network analysis of the heroin supply to Europe. J. Drug Issues 47(2), 217–240 (2016)
+%	\bibitem{ref_article14}
+%	C. Morselli, Hells Angels in springtime. Trends Org. Crime 12(2), 145–158 (2009)
+%	\bibitem{ref_article15}
+%	C. Morselli, Assessing vulnerable and strategic positions in a criminal network. J. Contemp. Crim. Justice 26(4), 382–392 (2010)
+%	\bibitem{ref_article16}
+%	A. Malm, G. Bichler, Networks of collaborating criminals: assessing the structural vulnerability of drug markets. J. Res. Crime Delinq. 48(2), 271–297 (2011)
+%	\bibitem{ref_article17}
+%	G. Bichler, A. Malm, Small arms, big guns: a dynamic model of illicit market opportunity. Glob. Crime 14(2–3), 261–286 (2013)
+%	\bibitem{ref_article18}
+%	A.F. Colladon, E. Remondi, Using social network analysis to prevent money laundering. Expert Syst. Appl. 67, 49–58 (2017)
+%	\bibitem{ref_article19}
+%	M.R.J. Soudijn, Using strangers for money: a discussion on money-launderers in organized crime. Trends Org. Crime 17(3), 199–217 (2014)
+%	\bibitem{ref_article20}
+%	M. Lauchs, R. Keast, N. Yousefpour, Corrupt police networks: uncovering hidden relationship patterns, functions and roles. Polic. Soc. 21(1), 110–127 (2011)
+%	\bibitem{ref_article21}
+%	J.M. McGloin, Policy and intervention considerations of a network analysis of street gangs. Criminol. Public Policy 4(3), 607–635 (2005)
+%	\bibitem{ref_article22}
+%	G. Bichler, A. Malm, J. Enriquez, Magnetic facilities: identifying key juvenile convergence places with social network analysis. Crime Delinq. 60(7), 971–998 (2014)
+%	\bibitem{ref_article23}
+%	D. Décary-Hétu, Information exchange paths in IRC hacking chat rooms, in Crime and networks, ed. by C. Morselli, (Routledge, New York, 2014)
+%	\bibitem{ref_article24}
+%	D. Décary-Hétu, B. Dupont, The social network of hackers. Glob. Crime 13(3), 160–175 (2012)
+%	\bibitem{ref_article25}
+%	D. Décary-Hétu, B. Dupont, Reputation in a dark network of online criminals. Glob. Crime 14(2–3), 175–196 (2013)
+%	\bibitem{ref_article26}
+%	Xu, Jennifer, and Hsinchun Chen. "Criminal network analysis and visualization." Communications of the ACM 48.6 (2005): 100-107.
+%	\bibitem{ref_article27}
+%	Feng, Mingchen, et al. "Big data analytics and mining for effective visualization and trends forecasting of crime data." IEEE Access 7 (2019): 106111-106123.
+%	\bibitem{ref_article28}
+%	Mathew, Ammu, et al. "Criminal Networks Mining and Visualization for Crime Investigation." Caniya and P, Mufeed and Raj, Asha, Criminal Networks Mining and Visualization for Crime Investigation (July 8, 2021) (2021).
+%	\bibitem{ref_article29}
+%	Chen, Hsinchun, et al. "Visualization in law enforcement." CHI'05 extended abstracts on Human factors in computing systems. 2005.
+%	\bibitem{ref_article30}
+%	\url{https://www.mpfchubut.gov.ar/}
+%	\bibitem{ref_article31}
+%	L. González, G. Rua. Sistemas Judiciales: Una perspectiva integral sobre la administración de justicia - Análisi Criminal, Publicación anual del CEJA e INECIP. N°23. Año 2019.
+%	\bibitem{ref_article32}
+%	K. M. Carley, Destabilization of covert networks, Comput. Math. Organ. Theory 12 (1) (2006) 51-66.
+%	\bibitem{ref_article33}
+%	M. Newman, A measure of betweenness centrality based on random walks, Social Networks 27 (1) (2005) 39-54.
+%	\bibitem{ref_article34}
+%	S. Wasserman, K. Faust, Social network analysis: methods and applications, Cambridge University Press, 1994.
+%	\bibitem{ref_visjs}
+%	\url{https://visjs.org/}
+%\end{thebibliography}
 \end{document}
