@@ -5,79 +5,49 @@ Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: splncs04.bst
 Reallocating 'name_of_file' (item size: 1) to 13 items.
 Database file #1: bibliografia.bib
-Warning--I didn't find a database entry for "ref_article2"
-Warning--I didn't find a database entry for "ref_article3"
-Warning--I didn't find a database entry for "ref_article4"
-Warning--I didn't find a database entry for "ref_article5"
-Warning--I didn't find a database entry for "ref_article6"
-Warning--I didn't find a database entry for "ref_article7"
-Warning--I didn't find a database entry for "ref_article8"
-Warning--I didn't find a database entry for "ref_article9"
-Warning--I didn't find a database entry for "ref_article10"
-Warning--I didn't find a database entry for "ref_article11"
-Warning--I didn't find a database entry for "ref_article12"
-Warning--I didn't find a database entry for "ref_article13"
-Warning--I didn't find a database entry for "ref_article14"
-Warning--I didn't find a database entry for "ref_article15"
-Warning--I didn't find a database entry for "ref_article16"
-Warning--I didn't find a database entry for "ref_article17"
-Warning--I didn't find a database entry for "ref_article18"
-Warning--I didn't find a database entry for "ref_article19"
-Warning--I didn't find a database entry for "ref_article20"
-Warning--I didn't find a database entry for "ref_article21"
-Warning--I didn't find a database entry for "ref_article22"
-Warning--I didn't find a database entry for "ref_article23"
-Warning--I didn't find a database entry for "ref_article24"
-Warning--I didn't find a database entry for "ref_article25"
-Warning--I didn't find a database entry for "ref_article26"
-Warning--I didn't find a database entry for "ref_article27"
-Warning--I didn't find a database entry for "ref_article28"
-Warning--I didn't find a database entry for "ref_article29"
-Warning--I didn't find a database entry for "ref_article30"
 Warning--I didn't find a database entry for "ref_article31"
 Warning--I didn't find a database entry for "ref_article32"
-Warning--I didn't find a database entry for "ref_article34"
-Warning--I didn't find a database entry for "ref_visjs"
 Warning--I didn't find a database entry for "ref_article33"
-You've used 1 entry,
+Warning--empty journal in wasserman1994social
+You've used 33 entries,
             2850 wiz_defined-function locations,
-            636 strings with 5074 characters,
-and the built_in function-call counts, 548 in all, are:
-= -- 45
-> -- 7
-< -- 2
-+ -- 3
-- -- 2
-* -- 34
-:= -- 71
-add.period$ -- 1
-call.type$ -- 1
-change.case$ -- 4
+            797 strings with 10075 characters,
+and the built_in function-call counts, 18856 in all, are:
+= -- 1595
+> -- 471
+< -- 49
++ -- 200
+- -- 162
+* -- 1183
+:= -- 2303
+add.period$ -- 35
+call.type$ -- 33
+change.case$ -- 180
 chr.to.int$ -- 0
-cite$ -- 1
-duplicate$ -- 51
-empty$ -- 52
-format.name$ -- 2
-if$ -- 118
+cite$ -- 34
+duplicate$ -- 1707
+empty$ -- 1723
+format.name$ -- 182
+if$ -- 4168
 int.to.chr$ -- 0
-int.to.str$ -- 1
-missing$ -- 9
-newline$ -- 9
-num.names$ -- 2
-pop$ -- 12
+int.to.str$ -- 33
+missing$ -- 326
+newline$ -- 105
+num.names$ -- 66
+pop$ -- 545
 preamble$ -- 1
-purify$ -- 3
+purify$ -- 145
 quote$ -- 0
-skip$ -- 18
+skip$ -- 603
 stack$ -- 0
-substring$ -- 37
-swap$ -- 33
-text.length$ -- 2
+substring$ -- 1245
+swap$ -- 1048
+text.length$ -- 49
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4
-warning$ -- 0
-while$ -- 6
-width$ -- 2
-write$ -- 15
-(There were 34 warnings)
+type$ -- 126
+warning$ -- 1
+while$ -- 175
+width$ -- 35
+write$ -- 328
+(There were 4 warnings)
