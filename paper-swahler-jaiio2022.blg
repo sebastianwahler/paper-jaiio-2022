@@ -5,49 +5,46 @@ Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: splncs04.bst
 Reallocating 'name_of_file' (item size: 1) to 13 items.
 Database file #1: bibliografia.bib
-Warning--I didn't find a database entry for "ref_article31"
-Warning--I didn't find a database entry for "ref_article32"
-Warning--I didn't find a database entry for "ref_article33"
 Warning--empty journal in wasserman1994social
-You've used 33 entries,
+You've used 35 entries,
             2850 wiz_defined-function locations,
-            797 strings with 10075 characters,
-and the built_in function-call counts, 18856 in all, are:
-= -- 1595
-> -- 471
-< -- 49
-+ -- 200
-- -- 162
-* -- 1183
-:= -- 2303
-add.period$ -- 35
-call.type$ -- 33
-change.case$ -- 180
+            805 strings with 10344 characters,
+and the built_in function-call counts, 19786 in all, are:
+= -- 1671
+> -- 490
+< -- 52
++ -- 209
+- -- 168
+* -- 1240
+:= -- 2421
+add.period$ -- 37
+call.type$ -- 35
+change.case$ -- 189
 chr.to.int$ -- 0
-cite$ -- 34
-duplicate$ -- 1707
-empty$ -- 1723
-format.name$ -- 182
-if$ -- 4168
+cite$ -- 36
+duplicate$ -- 1800
+empty$ -- 1812
+format.name$ -- 189
+if$ -- 4370
 int.to.chr$ -- 0
-int.to.str$ -- 33
-missing$ -- 326
-newline$ -- 105
-num.names$ -- 66
-pop$ -- 545
+int.to.str$ -- 35
+missing$ -- 344
+newline$ -- 111
+num.names$ -- 70
+pop$ -- 573
 preamble$ -- 1
-purify$ -- 145
+purify$ -- 152
 quote$ -- 0
-skip$ -- 603
+skip$ -- 629
 stack$ -- 0
-substring$ -- 1245
-swap$ -- 1048
-text.length$ -- 49
+substring$ -- 1296
+swap$ -- 1100
+text.length$ -- 52
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 126
+type$ -- 134
 warning$ -- 1
-while$ -- 175
-width$ -- 35
-write$ -- 328
-(There were 4 warnings)
+while$ -- 184
+width$ -- 37
+write$ -- 348
+(There was 1 warning)
