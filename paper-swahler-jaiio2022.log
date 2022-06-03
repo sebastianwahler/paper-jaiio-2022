@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.21)  28 MAY 2022 20:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.21)  3 JUN 2022 11:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -745,21 +745,21 @@ Non-PDF special ignored!
 LaTeX Info: Redefining \. on input line 48.
 LaTeX Info: Redefining \% on input line 48.
  [2] (sna.tex
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
  [3]) (marco-trabajo.tex
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
  [4]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 14.
-LaTeX Info: Redefining \% on input line 14.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
  [5]
 <images//grafo-ejemplo.png, id=30, 242.40562pt x 125.46875pt>
 File: images//grafo-ejemplo.png Graphic file (type png)
 <use images//grafo-ejemplo.png>
-Package pdftex.def Info: images//grafo-ejemplo.png  used on input line 21.
+Package pdftex.def Info: images//grafo-ejemplo.png  used on input line 20.
 (pdftex.def)             Requested size: 104.1381pt x 53.90263pt.
 )
 (descripcion-datos.tex (dataset-delitos.tex)
@@ -859,7 +859,7 @@ wahler\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/
 Users/swahler/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6
 .pfb><C:/Users/swahler/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmr7.pfb>
-Output written on paper-swahler-jaiio2022.pdf (14 pages, 2518771 bytes).
+Output written on paper-swahler-jaiio2022.pdf (14 pages, 2518726 bytes).
 PDF statistics:
  441 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
